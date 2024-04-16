@@ -1,0 +1,32 @@
+# FRENCH LOCALISATION - ALLOWS FOR THE EASY ADDITION OF OTHER LANGUAGES
+
+
+# COMMON
+mainmenu: Menu Principal
+play: Jouer
+options: Paramètres
+quit: Quitter
+back: Dos
+save: Sauvegarder
+
+gamename: PY-FM
+
+# SETTINGS
+lang: Langue
+resolution: Résolution
+
+# SETUP
+setup: Installation
+select_resolution: Sélectionnez La Résolution
+fullscreen: Plein-écran
+windowed: Fenêtré
+select_tick_speed: Sélectionnez La Vitesse de Tick
+select_tick_speed_def: |
+ La vitesse de tick est la vitesse entre 
+ chaque événement dans le moteur de jeu
+ (un événement est un écran de choix)
+0s: 0s
+1s: 1s
+2s: 2s
+3s: 3s
+4s: 4s

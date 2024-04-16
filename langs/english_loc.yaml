@@ -1,0 +1,31 @@
+# ENGLISH LOCALISATION - ALLOWS FOR THE EASY ADDITION OF OTHER LANGUAGES
+
+# COMMON
+mainmenu: Main Menu
+options: Settings
+play: Play
+quit: Quit
+back: Back
+save: Save
+
+gamename: PY-FM
+
+# SETTINGS
+lang: Language
+resolution: Resolution
+
+# SETUP
+setup: Setup
+select_resolution: Select Resolution
+fullscreen: Fullscreen
+windowed: Windowed
+select_tick_speed: Select Tick Speed
+select_tick_speed_def: |
+ Tick speed is the speed between 
+ each event in the game engine
+ (an event is a choice screen)
+0s: 0s
+1s: 1s
+2s: 2s
+3s: 3s
+4s: 4s

@@ -1,0 +1,22 @@
+PYFM (Single player)
+
+Main features
+- Game engine (textbased)
+- Teams
+- Leagues (Relegation and Promotion)
+- Transfers & Negotiations
+- Formations
+
+Leagues in V1
+- Premier League & EFL & Vanarama NL & NN/NS
+- LaLiga & LaLiga Hypermotion
+- Ligue 1 & 2
+- Bundesliga & Zwei Bundesliga
+- Serie A & B
+- Scottish Premiership & Championship
+- Super Lig
+- Eredivisie
+- Liga Portugal & Liga 2
+- Belgian Pro League
+- European Leagues, UCL, UEL, UECL
+
